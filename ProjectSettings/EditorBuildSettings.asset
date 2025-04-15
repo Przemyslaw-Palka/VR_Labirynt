@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Grajcowanie.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 0ae509c7f5e7f3c4086139143ffabdcf
+  - enabled: 1
+    path: Assets/Scenes/koniec.unity
+    guid: 954f072fa0599cb44ada7cfb354bd2c7
+  m_configObjects:
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ace8e6975e5b1854b9e687d1496001f6, type: 2}
